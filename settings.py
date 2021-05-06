@@ -1,0 +1,13 @@
+TABLE_WIDTH = 6*40
+TABLE_HEIGHT = 6*40
+
+CELL_DIMENSION_PIXELS = 3
+TOP_BAR_HEIGHT_PIXELS = 30
+
+#
+# DO NOT edit after this line
+#
+# =============================================================================
+
+GAME_WIDTH_PIXELS = TABLE_WIDTH * CELL_DIMENSION_PIXELS
+GAME_HEIGHT_PIXELS = TABLE_HEIGHT * CELL_DIMENSION_PIXELS + TOP_BAR_HEIGHT_PIXELS

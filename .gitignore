@@ -1,0 +1,4 @@
+ark_env/
+.idea
+exec/
+__pycache__/
