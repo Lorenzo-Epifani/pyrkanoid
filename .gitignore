@@ -1,4 +1,5 @@
 ark_env/
+env/
 .idea
 exec/
 __pycache__/
